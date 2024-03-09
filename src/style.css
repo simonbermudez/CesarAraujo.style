@@ -8,7 +8,7 @@
 
 @keyframes change_colors_2 {
     0%  {color: white;}
-    50%   {color: cyan;}
+    50%   {color: #0FFF50;}
     100% {color: white;}
 }
 
